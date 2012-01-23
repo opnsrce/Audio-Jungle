@@ -1,0 +1,37 @@
+.audio_jungle_item {
+    font-size: 0.85em !important;
+}
+.audio_jungle_item .thumbnail {
+    width: 60px;
+    height: 60px;
+    float: left;
+    border: solid 1px #000000;
+}
+.audio_jungle_item .item_title {
+    display: block;
+    width: 137px;
+    padding: 0px 0px 0px 5px;
+    overflow: hidden;
+}
+.audio_jungle_item .item_author {
+    display: block;
+    width: 137px;
+    font-size: 0.76em !important;
+    padding: 4px 0px 0px 5px;
+    overflow: hidden;
+}
+.audio_jungle_item .item_price {
+    display: block;
+    width: 137px;
+    font-size: 0.76em !important;
+    padding: 4px 0px 0px 5px;
+    overflow: hidden;
+}
+.audio_jungle_item .x-button {
+    position: absolute;
+    right: 12px;
+    top: 27px;
+}
+.play_pause_button {
+    padding: 0.6em 0.9em !important;
+}
